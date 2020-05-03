@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+/Users/arttukesanto/Documents/Eclipse/Data/.metadata/.plugins/org.eclipse.jdt.core
+1983728001.index
+3348274754.index
+1699293130.index
+348817343.index
+2585418274.index
+551905434.index
+3056065539.index
+2333617517.index
+1552294908.index
+1779114685.index
+2199998508.index
+1474451468.index
+3304832128.index
